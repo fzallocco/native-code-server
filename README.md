@@ -31,3 +31,7 @@ To clear the build, re-configure, and re-build run `node-gyp clear`
 Build Image: `docker build -t native-server:dev . --no-cache`
 
 Run Container: `docker run -p 7000:7000 native-server:dev`
+
+# 4. Resources
+
+Link: https://www.youtube.com/watch?v=bogYQr096h4
