@@ -34,4 +34,11 @@ Run Container: `docker run -p 7000:7000 native-server:dev`
 
 # 4. Resources
 
-Link: https://www.youtube.com/watch?v=bogYQr096h4
+ACCU 2024: https://www.youtube.com/watch?v=bogYQr096h4
+
+Node-Gyp: https://nodejs.org/api/n-api.html#node-gyp
+
+Api/Addon: https://nodejs.org/api/addons.html
+
+C++ Embedder: https://nodejs.org/api/embedding.html
+
