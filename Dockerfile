@@ -12,8 +12,6 @@ COPY . .
 
 RUN npm run build
 
-USER node
-
 EXPOSE 7000
 
 CMD ["npm", "start"]

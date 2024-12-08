@@ -24,13 +24,15 @@ Compile C/C++ code by executing `npm run build`, this instruction replaces `node
 To delete past builds, execute `node-gyp clean`
 To clear the build, re-configure, and re-build run `node-gyp clear`
 
-# 3. Running Server In Docker
+# 3. Running Server In Docker (Recommended)
 
 --More updates to follow--
 
 Build Image: `docker build -t native-server:dev . --no-cache`
 
 Run Container: `docker run -p 7000:7000 native-server:dev`
+
+Navigate to `http://localhost:7000/hello` to check the output of the C++/Node module
 
 # 4. Resources
 
