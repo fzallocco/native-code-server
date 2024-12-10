@@ -3,7 +3,7 @@
 I created this simple API to allow code written in C/C++ to run in Node.js. This type of API will come in handy when importing AI & Data Science projects into web applications.
 We use TypeScript primarily to write code for web apps, TypeScript code is then convereted into JavaScript for cross-browser compatibility.
 
-# 2. Installation of app
+# 2. App Installation
 
 Make sure you have the latest long-term support version of Node (v 18.+) & a supported version of Python. (Python >= v3.12 requires node-gyp >= v10)
 
